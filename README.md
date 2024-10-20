@@ -114,6 +114,6 @@ The model performed well in distinguishing between fresh and stale categories.
 
 
 
-Conclusion:
+# Conclusion:
 
 This project successfully developed AI models capable of analyzing grocery product images to extract key specifications, classify fruits and vegetables, and assess product freshness. By leveraging advanced image processing techniques, convolutional neural networks, and data augmentation strategies, the models achieved 100% accuracy in text extraction, 97% accuracy in fruit and vegetable classification, and 94.66% in freshness detection. These solutions offer significant potential for automating product analysis in e-commerce, supply chains, and quality assurance systems, enabling efficient and accurate decision-making processes.
